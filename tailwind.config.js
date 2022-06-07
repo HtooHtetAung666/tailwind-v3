@@ -6,6 +6,7 @@ module.exports = {
         blob: " blob 7s infinite",
         beat: "beat 1s ease-out infinite",
         wiggle: 'wiggle 1s ease-in-out infinite',
+        handwiggle: 'wiggle 2s ease-in-out infinite',
       },
       keyframes:{
         blob: {
